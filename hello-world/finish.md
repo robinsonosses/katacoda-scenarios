@@ -1,1 +1,1 @@
-You've completed your first Katacoda scenario!
+Ha completado el escenario Katacoda!
